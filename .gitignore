@@ -14,7 +14,7 @@ yarn-error.log
 /.idea
 /.vscode
 
-#
+# my file git ignores
 
 /package-lock.json
 /public/css/*
