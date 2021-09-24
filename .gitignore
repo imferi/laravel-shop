@@ -16,9 +16,9 @@ yarn-error.log
 
 #
 
-./package-lock.json
-./public/css/*
-./public/js/*
-./public/fonts/*
-./public/mix-manifest.json
+/package-lock.json
+/public/css/*
+/public/js/*
+/public/fonts/*
+/public/mix-manifest.json
 
