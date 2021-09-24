@@ -1,1 +1,38 @@
 @import "./../fonts/shabnam/shabnam.css";
+
+*,
+*::before,
+*::after,
+html,
+body {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+body{
+    font-family: Shabnam;
+    direction: rtl;
+}
+
+a {
+    transition: color 0.1s linear;
+    color: #111111;
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
+
+
+
+
+
+
+
+
+
+
+
